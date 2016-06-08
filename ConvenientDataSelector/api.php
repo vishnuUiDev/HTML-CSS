@@ -1,8 +1,5 @@
 <?php
 
-
-
-
 $data = array(
 array('name' => 'Paris', 'value' => 'paris', 'country' => 'France'),
 array('name' => 'Londes', 'value' => 'londres', 'country' => 'United-Kingdom'),

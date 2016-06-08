@@ -1,9 +1,3 @@
-/*!
- * Bootstrap BoxAutocomplete Selector v0.1.0 (https://github.com/Djagu/bootstrap-boxautocomplete-selector.git)
- *
- * Copyright 2016 bootstrap-boxautocomplete-selector
- * Licensed under MIT (https://github.com/silviomoreto/bootstrap-select/blob/master/LICENSE)
- */
 (function ( $ ) {
 
     $.fn.boxautocomplete = function( options ) {
