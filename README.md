@@ -9,8 +9,8 @@ All this Examples are small examples of my work which i have used during my prof
     
 2 - Convenient Data Selector
 
-    It's data selector to move particular data to other table and also search data from the table to move. I used jQuery plugin 
-    called boxautocomplete.jquery.js.
+    It's data selector to move particular data to other table and also search data from the table to move. 
+    I used jQuery plugin called boxautocomplete.jquery.js.
     
 3 - Export Data In Other Types
 
